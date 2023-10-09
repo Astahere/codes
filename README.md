@@ -14,7 +14,7 @@ Hope you enjoy the game!
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Game_Page](#game-page)
+- [Game Page](#game-page)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
