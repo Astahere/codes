@@ -30,17 +30,17 @@ The game is based on one year period, so it consists of 52 weeks per round. In s
 
 -Introduction: Here is the description and background of the game. [Introduction Page](login.png)
 
--Game: Just click "Start" when you are ready. Let's go!  [Game Main Page](png)
+-Game: Just click "Start" when you are ready. Let's go!  [Game Main Page Example](png)
 
 -Info: Highly encourage to read through this tab. There are many key information here.  [Information Page](info.gif)
 
--Chart: As the game going, you can see your cost and revenue chart here then utilize it for the future operation.  [Chart Page](png)
+-Chart: As the game going, you can see your cost and revenue chart here then utilize it for the future operation.  [Chart Page Example](png)
 
--Leaderboard: Check your rank here!  [Leaderboard Page](Leaderboard.png)
+-Leaderboard: Check your rank here!  [Leaderboard Page Example](Leaderboard.png)
 
 
 ## Main Code
-Please click the [link](main-code.R) for the main code, however, the game is currently unplayable since it is not connected to database.
+Please click the [link](maincode.R) for the main code, however, the game is currently unplayable since it is not connected to database.
 You can watch the game video [here[()!
 
 ## Additional Information
