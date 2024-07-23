@@ -37,7 +37,7 @@ The game is based on one year period, so it consists of 52 weeks per round. In s
 ![Information Page](info.gif)
 -Info: Highly encourage to read through this tab. There are many key information here.  
 
-![Chart Page Example](chartpage.jpg)
+![Chart Page Example](chartpage.png)
 
 -Chart: As the game going, you can see your cost and revenue chart here then utilize it for the future operation.
 
