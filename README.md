@@ -47,14 +47,14 @@ The game is based on one year period, so it consists of 52 weeks per round. In s
 
 -Leaderboard: Check your rank here!  
 
-[Introduction](Login.png)
+[Introduction](login.png)
 [Game](png)
-[Info](Info.gif)
+[Info](info.gif)
 [Chart](png)
 [Leaderboard](Leaderboard.png)
 
 ## Main Code
-Please click the [link](main code.R) for the main code, however, due to the connection with AWS, the game is unplayable.
+Please click the [link](main_code.R) for the main code, however, due to the connection with AWS, the game is unplayable.
 
 
 ## License
