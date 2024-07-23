@@ -25,11 +25,11 @@ Please install Dbeaver for connecting the online database for recording your sco
 
 ### Prerequisites
 
-Please install the latest version of Dbeaver
+Please install the latest version of Dbeaver and R
 
 ### Installations
-Dbeaver [version]
-R [version]
+Dbeaver [24.1.3]
+R [4.1.1]
 
 ## Usage
 
@@ -47,6 +47,16 @@ The game is based on one year period, so it consists of 52 weeks per round. In s
 
 -Leaderboard: Check your rank here!  
 
+[Introduction](Info.png)
+[Game](png)
+[Info](Info.png)
+[Chart](png)
+[Leaderboard](Leaderboard.png)
+
+## Main Code
+Please click the link for the main code, however, due to the connection with AWS, the game is unplayable.
+(main code.R)
+
 ## Contribution
 
 Groupmate [...]
@@ -57,7 +67,7 @@ The project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-I would like to extend my sincere gratitude to everyone who played a role in bringing [Game Name] to life. This project has been a labor of love, and your support and assistance have been invaluable.
+I would like to extend my sincere gratitude to everyone who played a role in bringing [Wine Boutique MAnagement] to life. This project has been a labor of love, and your support and assistance have been invaluable.
 
 ### Team Members
 
@@ -65,16 +75,16 @@ First and foremost, I want to express my appreciation to my dedicated team membe
 
 ### Mentors and Instructors
 
-I am deeply thankful to our mentors and instructors at [Your Institution or Program Name], particularly those in our MSO and ESA classes. Your guidance, expertise, and insightful feedback played a crucial role in shaping this project. Your dedication to our growth and learning are greatly appreciated.
+I am deeply thankful to our mentors and instructors at [Engineering System and Design] pillar, particularly those in our MSO and ESA classes. Your guidance, expertise, and insightful feedback played a crucial role in shaping this project. Your dedication to our growth and learning are greatly appreciated.
 
 ### Testing and Feedback
 
-I am grateful to all the individuals who participated in testing the game and providing valuable feedback. Your input helped us refine and improve [Game Name] to make it the best it could be.
+I am grateful to all the individuals who participated in testing the game and providing valuable feedback. Your input helped us refine and improve [Wine Boutique Management] to make it the best it could be.
 
 ### Community and Users
 
-Last but not least, I want to thank our wonderful gaming community and users. Your enthusiasm, engagement, and valuable feedback have been instrumental in the evolution of [Game Name]. We created this game with you in mind, and your enjoyment of it is our greatest reward.
+Last but not least, I want to thank our wonderful gaming community and users. Your enthusiasm, engagement, and valuable feedback have been instrumental in the evolution of [Wine Boutique Management]. We created this game with you in mind, and your enjoyment of it is our greatest reward.
 
-The development of [Game Name] has been an incredible experience, and I look forward to future updates and enhancements. Your continued support is invaluable, and I can't wait to see where this journey takes us.
+The development of [Wine Boutique Management] has been an incredible experience, and I look forward to future updates and enhancements. Your continued support is invaluable, and I can't wait to see where this journey takes us.
 
 Thank you all for being a part of this adventure!
