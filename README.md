@@ -43,6 +43,7 @@ The game is based on one year period, so it consists of 52 weeks per round. In s
 ![Leaderboard Page Example](Leaderboard.png)
 -Leaderboard: Check your rank here!  
 
+
 ## Main Code
 Please click the [link](maincode.R) for the main code, however, the game is currently unplayable since it is not connected to database.
 
