@@ -1,6 +1,6 @@
 # Wine Boutique Management
 
-[Logo pic]
+![Logo](Thumbnail.png)
 
 ## Description
 
