@@ -41,8 +41,11 @@ The game is based on one year period, so it consists of 52 weeks per round. In s
 
 ## Main Code
 Please click the [link](maincode.R) for the main code, however, the game is currently unplayable since it is not connected to database.
-FUll code including the package is accessible [here](code.zip)!
+
+Complete code including the package is accessible [here](codes.zip)!
+
 You can watch the game video through the link below!
+
 https://www.youtube.com/watch?v=BbzxFoV8wio
 
 ## Additional Information
