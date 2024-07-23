@@ -15,7 +15,6 @@ Hope you enjoy the game!
   - [Installation](#installation)
 - [Usage](#usage)
 - [Game Page](#game-page)
-- [Contribution](#contribution)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -29,6 +28,7 @@ Please install the latest version of Dbeaver and R
 
 ### Installations
 Dbeaver [24.1.3]
+
 R [4.1.1]
 
 ## Usage
@@ -47,19 +47,15 @@ The game is based on one year period, so it consists of 52 weeks per round. In s
 
 -Leaderboard: Check your rank here!  
 
-[Introduction](Info.png)
+[Introduction](Login.png)
 [Game](png)
-[Info](Info.png)
+[Info](Info.gif)
 [Chart](png)
 [Leaderboard](Leaderboard.png)
 
 ## Main Code
-Please click the link for the main code, however, due to the connection with AWS, the game is unplayable.
-(main code.R)
+Please click the [link](main code.R) for the main code, however, due to the connection with AWS, the game is unplayable.
 
-## Contribution
-
-Groupmate [...]
 
 ## License
 
